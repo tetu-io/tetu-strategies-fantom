@@ -1,6 +1,6 @@
 # <img src="tetu_contracts.svg" alt="Tetu.io">
 
-[![codecov](https://codecov.io/gh/tetu-io/tetu-strategies-matic/branch/master/graph/badge.svg?token=FJ38EG24U7)](https://codecov.io/gh/tetu-io/tetu-strategies-matic)
+[![codecov](https://codecov.io/gh/tetu-io/tetu-strategies-fantom/branch/master/graph/badge.svg?token=Rxvf4oDdIh)](https://codecov.io/gh/tetu-io/tetu-strategies-fantom)
 
 ## Links
 
